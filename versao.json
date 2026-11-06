@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\": \"EscolaERP\", \"arquivo\": \"pacotes/EscolaERP-0.1.1.zip\", \"expira_em\": \"2027-03-06\", \"minimo\": \"0.1.0\", \"notas\": [\"Correções de segurança do pentest\", \"Telas de turma, pedagógico e currículo, com ajuda\", \"Leitor de AFD da Portaria 671\"], \"publicado_em\": \"2026-11-06T11:19:50\", \"sha256\": \"2ab4f9dcc001adef857f79c19c65b026abe41242181336069a525699af0486c5\", \"tamanho\": 70896, \"versao\": \"0.1.1\"}",
- "assinatura": "qyxne//HAKZQnLZj1K9VbXj25SqqhIuIwQpDsnYlJo4rORc18vimYGeNm0fSxisAm1EFhoPMg+aJjmOFQNdaCw=="
+ "dados": "{\"app\": \"EscolaERP\", \"arquivo\": \"pacotes/EscolaERP-0.1.2.zip\", \"expira_em\": \"2027-03-06\", \"minimo\": \"0.1.0\", \"notas\": [\"Leitor de AFD corrigido para Python 3.9\"], \"publicado_em\": \"2026-11-06T11:25:16\", \"sha256\": \"c80e25a27a313d3277ca83d4913ddd7788e6c3ecd92ca4f7649fbc39ab2fef02\", \"tamanho\": 70921, \"versao\": \"0.1.2\"}",
+ "assinatura": "+IFC8Mr9T5DqL2oxrPS1twoX/oIwfuJsjTpgZ7JmXlCvXw+JZsv4E8fsaM2V/kmQBaApg3RVuuk7feqyMph/CQ=="
 }
