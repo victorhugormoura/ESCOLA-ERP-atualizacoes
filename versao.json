@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\": \"EscolaERP\", \"arquivo\": \"pacotes/EscolaERP-0.1.0.zip\", \"expira_em\": \"2027-03-06\", \"minimo\": \"0.1.0\", \"notas\": [\"Primeira versão beta\"], \"publicado_em\": \"2026-11-06T10:19:03\", \"sha256\": \"f9327e14982b6454b8e1af03e6aa0a3f26c062a16b81b25b99af7d3415783ef0\", \"tamanho\": 66601, \"versao\": \"0.1.0\"}",
- "assinatura": "NOmsdCKi8Fzi6Pe14Fe18CGvq8DewKA4TgS0vELEwYq0hEWnk9QfMqAq8RSMJI6IwJ2fcA4q2gF+k0jPaSVQCw=="
+ "dados": "{\"app\": \"EscolaERP\", \"arquivo\": \"pacotes/EscolaERP-0.1.1.zip\", \"expira_em\": \"2027-03-06\", \"minimo\": \"0.1.0\", \"notas\": [\"Correções de segurança do pentest\", \"Telas de turma, pedagógico e currículo, com ajuda\", \"Leitor de AFD da Portaria 671\"], \"publicado_em\": \"2026-11-06T11:19:50\", \"sha256\": \"2ab4f9dcc001adef857f79c19c65b026abe41242181336069a525699af0486c5\", \"tamanho\": 70896, \"versao\": \"0.1.1\"}",
+ "assinatura": "qyxne//HAKZQnLZj1K9VbXj25SqqhIuIwQpDsnYlJo4rORc18vimYGeNm0fSxisAm1EFhoPMg+aJjmOFQNdaCw=="
 }
